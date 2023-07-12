@@ -6,7 +6,7 @@
 4.  [Comandos básicos parte II](https://www.tabnews.com.br/seujorge/docker-comandos-basicos-parte-ii)
 5.  [Trabalhando com volumes](https://www.tabnews.com.br/seujorge/docker-trabalhando-com-volumes)
 6.  [Trabalhando com imagens parte I](https://www.tabnews.com.br/seujorge/docker-trabalhando-com-imagens-parte-i)
-7.  [Trabalhando com imagens parte I](https://www.tabnews.com.br/seujorge/docker-trabalhando-com-imagens-parte-ii)
+7.  [Trabalhando com imagens parte II](https://www.tabnews.com.br/seujorge/docker-trabalhando-com-imagens-parte-ii)
 8.  [Trabalhando com networks](https://www.tabnews.com.br/seujorge/docker-trabalhando-com-networks)
 9.  [Instalando um Framework em um container Docker, exemplo com laravel](https://www.tabnews.com.br/seujorge/instalando-um-framework-em-um-container-docker-exemplo-com-laravel)
 10. [Criando uma aplicação node em container](https://www.tabnews.com.br/seujorge/criando-uma-aplicacao-node-em-container)
