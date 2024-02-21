@@ -1,10 +1,4 @@
 body,
-h1,
-header {
-    font-family: "Anta", sans-serif;
-}
-
-body,
 html {
     height: 100%;
     margin: 0;
@@ -69,4 +63,12 @@ footer section p a {
 
 footer section p a:hover {
     color: #ddd;
+}
+
+main {
+    margin: 20px;
+}
+
+section {
+    margin: 20px;
 }
