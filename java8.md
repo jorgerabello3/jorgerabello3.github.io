@@ -1,4 +1,4 @@
-# Meus artigos sobre Java 8:
+# Meus artigos sobre Java 8
 
 1. [Funcionalidades do JDK 8 (Java 8) - Parte I - Funções Lambda](https://www.tabnews.com.br/seujorge/funcionalidades-do-jdk-8-java-8-parte-i-funcoes-lambda)
 
@@ -6,8 +6,7 @@
 
 3. [Funcionalidades do JDK 8 (Java 8) - Parte III - Ordenações](https://www.tabnews.com.br/seujorge/funcionalidades-do-jdk-8-java-8-parte-iii-ordenacoes)
 
-4. [Funcionalidades do JDK 8 (Java 8) - Parte IV - Ordenações
-](https://www.tabnews.com.br/seujorge/funcionalidades-do-jdk-8-java-8-parte-iv-ordenacoes)
+4. [Funcionalidades do JDK 8 (Java 8) - Parte IV - Ordenações](https://www.tabnews.com.br/seujorge/funcionalidades-do-jdk-8-java-8-parte-iv-ordenacoes)
 
 5. [Funcionalidades do JDK 8 (Java 8) - Parte V - API de Streams](https://www.tabnews.com.br/seujorge/funcionalidades-do-jdk-8-java-8-parte-v-api-de-streams)
 
@@ -17,10 +16,8 @@
 
 8. [Funcionalidades do JDK 8 (Java 8) - Parte VIII - API de Streams](https://www.tabnews.com.br/seujorge/funcionalidades-do-jdk-8-java-8-parte-viii-api-de-streams)
 
-9. [Funcionalidades do JDK 8 (Java 8) - Parte IX - API de Streams
-](https://www.tabnews.com.br/seujorge/funcionalidades-do-jdk-8-java-8-parte-ix-api-de-streams)
+9. [Funcionalidades do JDK 8 (Java 8) - Parte IX - API de Streams](https://www.tabnews.com.br/seujorge/funcionalidades-do-jdk-8-java-8-parte-ix-api-de-streams)
 
 10. [Funcionalidades do JDK 8 (Java 8) - Parte X - API de Streams](https://www.tabnews.com.br/seujorge/funcionalidades-do-jdk-8-java-8-parte-x-api-de-streams)
 
-11. [Funcionalidades do JDK 8 (Java 8) - Parte XI - API de Datas
-](https://www.tabnews.com.br/seujorge/funcionalidades-do-jdk-8-java-8-parte-xi-api-de-datas)
+11. [Funcionalidades do JDK 8 (Java 8) - Parte XI - API de Datas](https://www.tabnews.com.br/seujorge/funcionalidades-do-jdk-8-java-8-parte-xi-api-de-datas)
