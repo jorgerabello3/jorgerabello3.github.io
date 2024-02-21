@@ -14,7 +14,7 @@ html {
 }
 
 header {
-    background-color: #333;
+    background-color: #000;
     overflow: hidden;
 }
 
@@ -44,4 +44,29 @@ header nav ul li a:hover {
 header nav ul li a.active {
     background-color: #4CAF50;
     color: white;
+}
+
+footer {
+    background-color: #000;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer section {
+    display: flex;
+    justify-content: center;
+}
+
+footer section p {
+    margin: 0 10px;
+}
+
+footer section p a {
+    color: white;
+    text-decoration: none;
+}
+
+footer section p a:hover {
+    color: #ddd;
 }
