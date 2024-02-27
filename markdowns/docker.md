@@ -15,3 +15,4 @@
 13. [Construindo uma aplicação com banco de dados utilizando docker compose](https://www.tabnews.com.br/seujorge/construindo-uma-aplicacao-com-banco-de-dados-utilizando-docker-compose)
 14. [Criando uma imagem de docker pequena com go lang](https://www.tabnews.com.br/seujorge/criando-imagens-pequenas-com-docker)
 15. [Publicando sua imagem no docker-hub](https://www.tabnews.com.br/seujorge/construindo-uma-aplicacao-com-banco-de-dados-utilizando-docker-compose)
+16. [Criando uma aplicação node com proxy reverso usando nginx](https://www.tabnews.com.br/seujorge/criando-uma-aplicacao-node-com-proxy-reverso-usando-nginx)

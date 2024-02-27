@@ -1,74 +1,74 @@
 body,
 html {
-    height: 100%;
-    margin: 0;
-    font-family: "Anta", sans-serif;
-    font-size: 16pt;
-    line-height: 25pt;
+  height: 100%;
+  margin: 0;
+  font-family: "Anta", sans-serif;
+  font-size: 16pt;
+  line-height: 25pt;
 }
 
 header {
-    background-color: #000;
-    overflow: hidden;
+  background-color: #000;
+  overflow: hidden;
 }
 
 header nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 header nav ul li {
-    float: left;
+  float: left;
 }
 
 header nav ul li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
 }
 
 header nav ul li a:hover {
-    background-color: #ddd;
-    color: black;
+  background-color: #ddd;
+  color: black;
 }
 
 header nav ul li a.active {
-    background-color: #4CAF50;
-    color: white;
+  background-color: #4CAF50;
+  color: white;
 }
 
 footer {
-    background-color: #000;
-    color: white;
-    padding: 20px 0;
-    text-align: center;
+  background-color: #000;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
 }
 
 footer section {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 footer section p {
-    margin: 0 10px;
+  margin: 0 10px;
 }
 
 footer section p a {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 footer section p a:hover {
-    color: #ddd;
+  color: #ddd;
 }
 
 main {
-    margin: 20px;
+  margin: 20px;
 }
 
 section {
-    margin: 20px;
+  margin: 20px;
 }
